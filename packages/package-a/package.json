@@ -1,5 +1,5 @@
 {
-  "name": "ralfting-pack-1",
+  "name": "@testing/ralfting-pack-1",
   "version": "0.0.3",
   "main": "dist/index.js",
   "umd:main": "dist/tsdx-monorepo.umd.production.js",
@@ -15,5 +15,13 @@
   },
   "dependencies": {
     "package-b": "^0.1.0"
-  }
+  },
+  "description": "Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "author": "Ralph Effting",
+  "license": "ISC"
 }

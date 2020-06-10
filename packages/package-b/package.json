@@ -1,5 +1,5 @@
 {
-  "name": "ralfting-pack-2",
+  "name": "@testing/ralfting-pack-2",
   "version": "0.0.3",
   "main": "dist/index.js",
   "umd:main": "dist/tsdx-monorepo.umd.production.js",
@@ -12,5 +12,12 @@
     "start": "tsdx watch",
     "build": "tsdx build",
     "test": "tsdx test --env=jsdom"
-  }
+  },
+  "description": "asdasdsa",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "author": "Ralph Effting",
+  "license": "ISC"
 }

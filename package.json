@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "@testing/root",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -34,5 +34,18 @@
     "tsdx": "^0.6.0",
     "tslib": "^1.9.3",
     "typescript": "^3.5.1"
-  }
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralph-learning/lerna.git"
+  },
+  "author": "Ralph Effting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralph-learning/lerna/issues"
+  },
+  "homepage": "https://github.com/ralph-learning/lerna#readme",
+  "description": ""
 }
