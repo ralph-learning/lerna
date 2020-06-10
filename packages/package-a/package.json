@@ -22,5 +22,6 @@
     "test": "test"
   },
   "author": "Ralph Effting",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {}
 }
