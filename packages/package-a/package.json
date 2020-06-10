@@ -22,5 +22,6 @@
     "test": "test"
   },
   "author": "Ralph Effting",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "2f2b140caf49fd193c22c538ca22d10bb5959b38"
 }
