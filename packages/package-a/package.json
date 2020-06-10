@@ -1,5 +1,5 @@
 {
-  "name": "@testing/ralfting-pack-1",
+  "name": "@ralfting-test/ralfting-pack-1",
   "version": "0.1.1",
   "main": "dist/index.js",
   "umd:main": "dist/tsdx-monorepo.umd.production.js",
@@ -22,5 +22,6 @@
     "test": "test"
   },
   "author": "Ralph Effting",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {}
 }

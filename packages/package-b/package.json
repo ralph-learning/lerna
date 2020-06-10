@@ -1,5 +1,5 @@
 {
-  "name": "@testing/ralfting-pack-2",
+  "name": "@ralfting-test/ralfting-pack-2",
   "version": "0.1.0",
   "main": "dist/index.js",
   "umd:main": "dist/tsdx-monorepo.umd.production.js",

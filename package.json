@@ -1,5 +1,5 @@
 {
-  "name": "@testing/root",
+  "name": "@ralfting-test/root",
   "version": "0.0.0",
   "private": true,
   "scripts": {
